@@ -1,2 +1,2 @@
 # website
-Yet another blog / resume / portfolio website of random guy 
+Yet another blog/resume/portfolio website of a random guy
