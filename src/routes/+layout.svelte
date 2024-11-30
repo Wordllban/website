@@ -8,8 +8,10 @@
 </script>
 
 <ParaglideJS {i18n}>
-	<div class="px-8">
+	<div>
 		<Header />
-		{@render children()}
+		<div class="px-8 md:px-32">
+			{@render children()}
+		</div>
 	</div>
 </ParaglideJS>
