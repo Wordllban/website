@@ -8,6 +8,8 @@
 </script>
 
 <ParaglideJS {i18n}>
-	<Header />
-	{@render children()}
+	<div class="px-8">
+		<Header />
+		{@render children()}
+	</div>
 </ParaglideJS>
